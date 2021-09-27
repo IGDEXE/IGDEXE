@@ -15,6 +15,13 @@ In my spare time I support the Microsoft Community with articles, tech answers a
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
  </p>
 
+## Github Status
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igdexe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igdexe&hide=javascript,html,css&layout=compact&langs_count=16&theme=dracula"/>
+</p>
+
  
 # Tech Experience
 - OS
