@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
  </p>
  
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={IGDEXE}" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={IGD753}" />
 
 ## Social Media
 <p align="left">
@@ -33,5 +33,4 @@
 
 
 - Thanks for visiting.
-
 - Enjoy it!! o/
