@@ -4,6 +4,7 @@
 :house_with_garden: I’m from Brazil
 
 I was responsible for several process automation projects, tools construction and implementation of SRE/DevOps culture
+
 I currently work implementing and showing the Veracode solutions in any Environment for any customer looking for true Shift-Left
 
  
