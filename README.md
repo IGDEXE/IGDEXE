@@ -6,7 +6,7 @@
 :house_with_garden: I’m from Brazil
 
  
- ## Tech Experience
+ * **Tech Experience**
  <p align="left">
     <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
@@ -15,10 +15,8 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
  </p>
- 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={igd753@gmail.com}" />
 
-## Social Media
+* **Social Media**
 <p align="left">
   <a href="https://www.instagram.com/igd753/" alt="Instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/igd753"/>
