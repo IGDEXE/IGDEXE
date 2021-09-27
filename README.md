@@ -3,10 +3,10 @@
 
 :house_with_garden: I’m from Brazil
 
-- I was responsible for several automation projects, tools development and implementation of SRE/DevOps culture
-- I currently work implementing the Veracode solutions in any Environment for any customer looking for true Shift-Left
-- In my spare time I support the Microsoft Community with articles, tech answers and code demos
-- Workspace Spec
+I was responsible for several automation projects, tools development and implementation of SRE/DevOps culture <br />
+I currently work implementing the Veracode solutions in any Environment for any customer looking for true Shift-Left <br />
+In my spare time I support the Microsoft Community with articles, tech answers and code demos <br />
+- Workspace Spec:
  <p align="left">
     <img src="https://img.shields.io/badge/lenovo-laptop-E2231A?style=for-the-badge&logo=acer&logoColor=white" />
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
