@@ -19,7 +19,7 @@ In my spare time I support the Microsoft Community with articles, tech answers a
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igdexe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igdexe&hide=javascript,html,css&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igdexe&hide=javascript,html,css&layout=compact&langs_count=10&theme=dracula"/>
 </p>
 
  
