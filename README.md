@@ -16,9 +16,9 @@
     <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
  </p>
  
- https://github-readme-stats.vercel.app/api/top-langs/?username={IGDEXE}
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={IGDEXE}" />
 
-## About me
+## Social Media
 <p align="left">
   <a href="https://www.instagram.com/igd753/" alt="Instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/igd753"/>
