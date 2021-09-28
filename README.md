@@ -1,5 +1,5 @@
 # Hi, I'm Ivo Dias!
-:computer: I'm Veracode Solution Engineer and Microsoft Learn Student Ambassadors
+:computer: I'm Veracode Solution Engineer and Microsoft Learn Student Ambassador
 
 :house_with_garden: I’m from Brazil
 
