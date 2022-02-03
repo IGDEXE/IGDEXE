@@ -1,10 +1,11 @@
 # Hi, I'm Ivo Dias!
-:computer: I'm Veracode Solution Engineer and Microsoft Learn Student Ambassador
+:computer: I'm M3Corp Solution Engineer
 
 :house_with_garden: I’m from Brazil
 
 I was responsible for several automation projects, tools development and implementation of SRE/DevOps culture <br />
 I currently work implementing the Veracode solutions in any Environment for any customer looking for true Shift-Left <br />
+And now with Darktrace solutions <br />
 In my spare time I support the Microsoft Community with articles, tech answers and code demos <br />
 - Workspace Spec
  <p align="left">
