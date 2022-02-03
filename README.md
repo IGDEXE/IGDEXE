@@ -5,7 +5,7 @@
 
 I was responsible for several automation projects, tools development and implementation of SRE/DevOps culture <br />
 I currently work implementing the Veracode solutions in any Environment for any customer looking for true Shift-Left <br />
-And now with Darktrace solutions <br />
+And now with Darktrace solutions too <br />
 In my spare time I support the Microsoft Community with articles, tech answers and code demos <br />
 - Workspace Spec
  <p align="left">
