@@ -7,14 +7,6 @@ I was responsible for several automation projects, tools development and impleme
 I currently work implementing the Veracode solutions in any Environment for any customer looking for true Shift-Left <br />
 And now with Darktrace solutions too <br />
 In my spare time I support the Microsoft Community with articles, tech answers and code demos <br />
-- Workspace Spec
- <p align="left">
-    <img src="https://img.shields.io/badge/lenovo-laptop-E2231A?style=for-the-badge&logo=acer&logoColor=white" />
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-    <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
- </p>
 
 ## Github Status
 
