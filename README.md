@@ -1,9 +1,9 @@
-# Hi, I'm Ivo Dias!
 :computer: I'm M3Corp Solution Engineer
 
-Maybe I need use less Powershell <br />
+Maybe I need use less Powershell <br/>
+If you want to know me, see my [Anilist](https://anilist.co/user/igd753/) <br/>
 
-### Analytics 
+# Analytics 
 <p align="center">
   <a href="https://github.com/IGDEXE">
     <img align="center" height="180em" src="https://github-readme-stats-coral-five.vercel.app/api?username=IGDEXE&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
