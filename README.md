@@ -1,49 +1,17 @@
 # Hi, I'm Ivo Dias!
 :computer: I'm M3Corp Solution Engineer
 
-:house_with_garden: I’m from Brazil
+Maybe I need use less Powershell <br />
 
-I was responsible for several automation projects, tools development and implementation of SRE/DevOps culture <br />
-I currently work implementing the Veracode solutions in any Environment for any customer looking for true Shift-Left <br />
-And now with SD Elements solutions too <br />
-In my spare time I support the Microsoft Community with articles, tech answers and code demos <br />
- 
-# Tech Experience
-- OS
- <p align="left">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
- </p>
- 
- - CI/CD
- <p align="left">
-    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-    <img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
- </p>
- 
- - Cloud/Platform
- <p align="left">
-    <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
- </p>
- 
- - Languages
- <p align="left">
-    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
-    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
- </p>
+### Analytics 
+<p align="center">
+  <a href="https://github.com/IGDEXE">
+    <img align="center" height="180em" src="https://github-readme-stats-coral-five.vercel.app/api?username=IGDEXE&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/IGDEXE">
+    <img align="center" height="180em" src="https://github-readme-stats-coral-five.vercel.app/api/top-langs/?username=IGDEXE&layout=compact&langs_count=8&theme=material-palenight&count_private=true"/>
+  </a>
+</p>
 
 # Social Media
 <p align="left">
@@ -60,7 +28,6 @@ In my spare time I support the Microsoft Community with articles, tech answers a
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/igd753"/>
   </a>
 </p>
-
 
 - Thanks for visiting.
 - Enjoy it!! o/
