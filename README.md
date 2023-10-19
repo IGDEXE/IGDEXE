@@ -1,9 +1,6 @@
-:computer: I'm M3Corp Solution Engineer
-
 Maybe I need use less Powershell <br/>
 If you want to know me, see my [Anilist](https://anilist.co/user/igd753/) <br/>
 
-# Analytics 
 <p align="center">
   <a href="https://github.com/IGDEXE">
     <img align="center" height="180em" src="https://github-readme-stats-coral-five.vercel.app/api?username=IGDEXE&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
@@ -13,7 +10,6 @@ If you want to know me, see my [Anilist](https://anilist.co/user/igd753/) <br/>
   </a>
 </p>
 
-# Social Media
 <p align="left">
   <a href="https://www.instagram.com/igd753/" alt="Instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/igd753"/>
@@ -28,6 +24,3 @@ If you want to know me, see my [Anilist](https://anilist.co/user/igd753/) <br/>
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/igd753"/>
   </a>
 </p>
-
-- Thanks for visiting.
-- Enjoy it!! o/
